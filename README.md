@@ -1,5 +1,5 @@
 # C S S   R E S P O N S I V E
-# - - - - - - - - - - - - - -
+# - - - - - - - - - - - - - - - - -
 # 1. Latihan Media Query
 ![Alt Text](https://github.com/christianykyo/CSS-Responsive/blob/master/1.%20CSS%20R%20Latihan%20Media%20Query.html)
 Coding: https://github.com/christianykyo/CSS-Responsive/blob/master/CSS%201
